@@ -1,0 +1,8 @@
+1. register_screen.dart
+
+line_19  mainAxisAlignment: MainAxisAlignment.end, // ???
+
+2.text_input.dart
+
+line_12 obscureText: true, // hide pass only?
+
